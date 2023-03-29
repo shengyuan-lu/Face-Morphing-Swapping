@@ -1,6 +1,6 @@
 # Face-Morphing-Swapping
 
-## Map Cooresponding Points
+## Map Corresponding Points
 ![Screenshot 2023-03-28 at 17 10 46](https://user-images.githubusercontent.com/70995597/228394260-16680c48-4484-4d04-904d-71ee68ef4b34.jpg)
 
 ## Face Morph
